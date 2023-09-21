@@ -1,0 +1,31 @@
+{
+    "location": [
+      { "name": "United States", "capital": "Washington, D.C." },
+      { "name": "United Kingdom", "capital": "London" },
+      { "name": "France", "capital": "Paris" },
+      { "name": "Germany", "capital": "Berlin" },
+      { "name": "Italy", "capital": "Rome" },
+      { "name": "Spain", "capital": "Madrid" },
+      { "name": "Russia", "capital": "Moscow" },
+      { "name": "China", "capital": "Beijing" },
+      { "name": "Japan", "capital": "Tokyo" },
+      { "name": "India", "capital": "New Delhi" },
+      { "name": "Brazil", "capital": "Brasília" },
+      { "name": "Canada", "capital": "Ottawa" },
+      { "name": "Australia", "capital": "Canberra" },
+      { "name": "Mexico", "capital": "Mexico City" },
+      { "name": "South Africa", "capital": "Pretoria (Administrative), Cape Town (Legislative), Bloemfontein (Judicial)" },
+      { "name": "Egypt", "capital": "Cairo" },
+      { "name": "Kenya", "capital": "Nairobi" },
+      { "name": "Argentina", "capital": "Buenos Aires" },
+      { "name": "Saudi Arabia", "capital": "Riyadh" },
+      { "name": "United Arab Emirates", "capital": "Abu Dhabi" },
+      { "name": "South Korea", "capital": "Seoul" },
+      { "name": "Turkey", "capital": "Ankara" },
+      { "name": "Greece", "capital": "Athens" },
+      { "name": "Netherlands", "capital": "Amsterdam" },
+      { "name": "Switzerland", "capital": "Bern" },
+      { "name": "Sweden", "capital": "Stockholm" }
+    ]
+  }
+  

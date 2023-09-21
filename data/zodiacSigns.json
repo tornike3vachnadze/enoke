@@ -1,0 +1,76 @@
+{
+    "zodiac_signs": [
+        {
+            "name": "Aries",
+            "element": "Fire",
+            "start_date": "March 21",
+            "end_date": "April 19"
+        },
+        {
+            "name": "Taurus",
+            "element": "Earth",
+            "start_date": "April 20",
+            "end_date": "May 20"
+        },
+        {
+            "name": "Gemini",
+            "element": "Air",
+            "start_date": "May 21",
+            "end_date": "June 20"
+        },
+        {
+            "name": "Cancer",
+            "element": "Water",
+            "start_date": "June 21",
+            "end_date": "July 22"
+        },
+        {
+            "name": "Leo",
+            "element": "Fire",
+            "start_date": "July 23",
+            "end_date": "August 22"
+        },
+        {
+            "name": "Virgo",
+            "element": "Earth",
+            "start_date": "August 23",
+            "end_date": "September 22"
+        },
+        {
+            "name": "Libra",
+            "element": "Air",
+            "start_date": "September 23",
+            "end_date": "October 22"
+        },
+        {
+            "name": "Scorpio",
+            "element": "Water",
+            "start_date": "October 23",
+            "end_date": "November 21"
+        },
+        {
+            "name": "Sagittarius",
+            "element": "Fire",
+            "start_date": "November 22",
+            "end_date": "December 21"
+        },
+        {
+            "name": "Capricorn",
+            "element": "Earth",
+            "start_date": "December 22",
+            "end_date": "January 19"
+        },
+        {
+            "name": "Aquarius",
+            "element": "Air",
+            "start_date": "January 20",
+            "end_date": "February 18"
+        },
+        {
+            "name": "Pisces",
+            "element": "Water",
+            "start_date": "February 19",
+            "end_date": "March 20"
+        }
+    ]
+}

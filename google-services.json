@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "109600107400",
+    "project_id": "enok-mobile",
+    "storage_bucket": "enok-mobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109600107400:android:af580dfcd08e8455e5e83d",
+        "android_client_info": {
+          "package_name": "com.enok"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "109600107400-2lv8i2ogs1m4a9ai100eioiichoija5q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDK1w1naOHBtbYBEwGKcMfHqrmE-YgH4rk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "109600107400-2lv8i2ogs1m4a9ai100eioiichoija5q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "109600107400-nl8lbf2vjvspq8brilrpamrbd2lur75u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.enok"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
